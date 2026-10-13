@@ -172,6 +172,6 @@ Code and original project documentation are provided under the [MIT License](LIC
 
 ## Author
 
-**[Your Name / GitHub username]** · LinkedIn: **[Add your profile URL]** · **[Optional portfolio/contact]**
+**Abdullah Asif** · LinkedIn: **https://www.linkedin.com/in/abdullah-asif-948b71246/** ·
 
 *This is an independent portfolio analysis of a historical retail sample. Its descriptive findings are intended to illustrate analytics-driven decision making, not to imply current operating results or causal business impact.*
